@@ -2,6 +2,11 @@
 
 C# project
 
+Dependencies:
+
+HtmlAgilityPack 1.4.9.5
+https://www.nuget.org/packages/HtmlAgilityPack
+
 By: Kevin Brunnquell
 
 https://www.facebook.com/kevin.brunnquell
