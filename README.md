@@ -1,4 +1,4 @@
-# BetScrapper
+# BetScraper
 
 C# project
 
